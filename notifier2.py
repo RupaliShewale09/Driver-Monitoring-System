@@ -27,7 +27,7 @@ def get_family_contacts(user_email):
 def send_email_alert(to_email, subject, message):
     try:
         sender_email = "dms.Alerts360@gmail.com"
-        app_password = "dhnc lbdq pihx vbto"
+        app_password = "xxxx xxxx xxxx xxxx"
 
         msg = MIMEMultipart()
         msg["From"] = sender_email
