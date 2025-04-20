@@ -1,4 +1,4 @@
-# 🚗 DriCare360 – Driver Drowsiness Detection System
+# 🚗 DriCare360 – Driver Monitoring System
 
 **DriCare360** is a smart driver safety solution built to monitor a driver’s alertness and detect early signs of drowsiness using facial landmark analysis. The system leverages a webcam to analyze **eye closure (EAR)**, **yawning (MAR)**, and **head tilts (yaw angle)** in real time. If signs of drowsiness are detected, DriCare360 initiates **audio alerts** and **sends email notifications** to the driver’s emergency contact.
 
